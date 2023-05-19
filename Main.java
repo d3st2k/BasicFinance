@@ -1,7 +1,7 @@
 import com.formdev.flatlaf.FlatLightLaf;
 import javax.swing.UIManager;
 
-public class Frame {
+public class Main {
     /**
      * @param args the command line arguments
      */
